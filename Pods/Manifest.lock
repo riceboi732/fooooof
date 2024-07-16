@@ -1,0 +1,38 @@
+PODS:
+  - BSImagePicker (3.3.1)
+  - InputBarAccessoryView (5.5.0):
+    - InputBarAccessoryView/Core (= 5.5.0)
+  - InputBarAccessoryView/Core (5.5.0)
+  - LBTAComponents (1.1)
+  - MessageKit (3.8.0):
+    - InputBarAccessoryView (~> 5.5.0)
+  - TagListView (1.4.1)
+  - TTGTagCollectionView (1.11.2)
+
+DEPENDENCIES:
+  - BSImagePicker (~> 3.1)
+  - LBTAComponents
+  - MessageKit
+  - TagListView (~> 1.0)
+  - TTGTagCollectionView (~> 1.11.1)
+
+SPEC REPOS:
+  trunk:
+    - BSImagePicker
+    - InputBarAccessoryView
+    - LBTAComponents
+    - MessageKit
+    - TagListView
+    - TTGTagCollectionView
+
+SPEC CHECKSUMS:
+  BSImagePicker: 0fe04b574d4d6b81093785d2af6c26227efc8428
+  InputBarAccessoryView: 1d7b0a672b36e370f01f264b3907ef39d03328e3
+  LBTAComponents: 2e7719683ddcf1cdf7280700438c0c6a5f7da550
+  MessageKit: a1ba0c69ebead94029867853eb44dd05b9b3f453
+  TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
+  TTGTagCollectionView: 949030356ed27954f39dd29d78978c0f5c35a745
+
+PODFILE CHECKSUM: e2e55c18052a46b3ee3aa5816cf57e5d569c9870
+
+COCOAPODS: 1.11.3
